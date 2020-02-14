@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'Legacy API Gateway (Free)';
+const apiUrl = 'https://07870736.eu-gb.apigw.appdomain.cloud/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
